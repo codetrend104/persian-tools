@@ -140,6 +140,12 @@ export const RightTel = {
 		type: ["credit"],
 		operator: operatorsMap.RightTel,
 	},
+	"923": {
+		province: [],
+		base: "کشوری",
+		type: ["credit"],
+		operator: operatorsMap.RightTel,
+	},
 };
 
 const IrancellModel = {

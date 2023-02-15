@@ -1,6 +1,6 @@
 {
-	"name": "@persian-tools/persian-tools",
-	"version": "4.0.0",
+	"name": "@codetrend/persian-tools",
+	"version": "4.0.1",
 	"description": "An anthology of a variety of tools for Persian language in javascript",
 	"main": "./build/persian-tools.js",
 	"esmodule": "./build/persian-tools.esm.js",
@@ -32,7 +32,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/persian-tools/persian-tools.git"
+		"url": "git+https://github.com/codetrend104/persian-tools.git"
 	},
 	"files": [
 		"build"
@@ -52,7 +52,7 @@
 	"author": "Ali Torki <ali_4286@live.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/persian-tools/persian-tools/issues"
+		"url": "https://github.com/codetrend104/persian-tools/issues"
 	},
 	"homepage": "https://persian-tools.github.io/persian-tools",
 	"devDependencies": {
